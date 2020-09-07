@@ -1,0 +1,2 @@
+diccionario = dict(nombres = ['Miguel', 'Bernardo', 'Rafael', 'Gian'], apellidos = ['Buonarrotti', 'Rossellino', 'Sanzio', 'Bernini'], cursos = ['programacion', 'estadistica'], notas_programacion = [7.0, 5.6, 6.5, 6.1], notas_estadistica= [5.8, 6.7, 5.9, 6.2])                                                              
+print(diccionario['nombres'][0], diccionario['apellidos'][0], diccionario['notas_programacion'][0], diccionario['notas_estadistica'][0]) 
